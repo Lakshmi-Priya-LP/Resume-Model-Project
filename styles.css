@@ -1,0 +1,61 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+.head{
+    text-align: center;
+    font-size: 15px;
+}
+.fontset{
+    color: gray;
+    font-size: 20px;
+}
+.iconset{
+    font-size: 20px;
+}
+.align{
+    text-align: center;
+    font-weight: bold;
+}
+.lineheight{
+    line-height: 0;
+}
+.align1{
+    font-weight: bold;
+}
+.width{
+    width: 30%;
+}
+.verticalalign{
+    vertical-align: top;
+}
+.width1{
+    width: 10%;
+}
+.width2{
+    width: 37%;
+}
+.color{
+    accent-color: orange;
+    height: 4px;
+}
+.verticalline{
+    border-left: 1px solid gray;
+    height: 1135px;
+    position: absolute;
+    left:51%;
+    margin-left: -4px;
+    top:375px;
+}
+i{
+    border-radius: 50%;  
+    outline-style: dotted;
+    outline-width: 4px;
+    background-color: rgb(75, 74, 74);
+    padding: 8px;  
+  }
+  .color1{
+    color: orange;
+  }
+
+
